@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(13,17): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(99,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(99,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(104,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(104,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(109,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(109,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(114,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\opengl_lab_4\main.cpp(114,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  opengl_lab_4.vcxproj -> D:\Edu\3 курс\2\ЗП КГ\програми\opengl_lab_4\x64\Debug\opengl_lab_4.exe
